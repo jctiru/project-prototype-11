@@ -1,18 +1,14 @@
-# vueapp6
+# project-prototype-11
+### Stock-trader
 
-> A Vue.js project
+Simple stock-trader SPA using:
+- VueJS 2
+- Vuex
+- Vue-resource
+- Vue-router
+- Firebase
+- AnimateCSS
+- Bootstrap 3
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Based on Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex) of Maximilian Schwarzmüller:
+- https://www.udemy.com/vuejs-2-the-complete-guide/
